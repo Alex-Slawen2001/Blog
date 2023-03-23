@@ -1,0 +1,8 @@
+.card {
+    width: 32%;
+    margin-right: 1%;
+}
+.pagination1 a {
+   text-decoration: none;
+   padding: 8px 16px;
+}
